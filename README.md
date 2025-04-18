@@ -5,6 +5,7 @@ Canteens Fusion is an app that allows canteen owners to register their canteens,
 - Firebase Authentication (Email + Phone number)
 - Cloud Firestore, Cloud Storage
 - Google Maps for defining the canteen boundary
+- Geocoding Api for converting Latitude and Longitude to Address
 
 ***Instructions to use this project***
 - Create a Firebase project. Add Android(com.codewithirfan.canteens_fusion) and iOS(com.codewithirfan.canteens-fusion) packages.
