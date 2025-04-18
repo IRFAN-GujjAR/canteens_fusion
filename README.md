@@ -1,5 +1,5 @@
 # Canteens Fusion
-Canteens Fusion is an app that allows canteen owners to register their canteens, They can set boundaries on Google Maps inside which customers can place orders. This project has complete signup, login, forgot password, email verification, phone number verification, profile picture upload, canteen info setup with Google Maps boundaries, in which customers can order.
+Canteens Fusion is a flutter app that allows canteen owners to register their canteens, They can set boundaries on Google Maps inside which customers can place orders. This project has complete signup, login, forgot password, email verification, phone number verification, profile picture upload, canteen info setup with Google Maps boundaries, in which customers can order.
 
 ***Technical Specs***
 - Firebase Authentication (Email + Phone number)
